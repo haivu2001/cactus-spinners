@@ -1,4 +1,4 @@
-cactus-spinner
+cactus-spinners
 ---
 A library of loading spinners made with Svelte.
 
@@ -8,6 +8,7 @@ A library of loading spinners made with Svelte.
     <h1>Hello {name}!</h1>
     <p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
     <RectSpin speed={15} color="green">
+        <!-- Optional content -->
         <span style="color: limegreen">Loading</span>
     </RectSpin>
 </main>
