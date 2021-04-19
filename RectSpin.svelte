@@ -65,15 +65,15 @@
     }
 
     .content {
-        width: 300px;
-        height: 200px;
+        width: 280px;
+        height: 140px;
         /*border: 1px solid red;*/
         /*outline: 1px solid blue;*/
         margin: auto;
         display: flex;
         align-items: center;
         justify-content: center;
-        font-family: Verdana, serif;
+        font-family: "Lucida Console", serif;
         font-size: xx-large;
         color: white;
     }
