@@ -2,7 +2,7 @@ cactus-spinners
 ---
 A library of loading spinners made with Svelte.
 
-## Example 1
+## Example 1: RectSpin
 ```html
 <main>
     <h1>Hello {name}!</h1>
